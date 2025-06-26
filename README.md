@@ -41,6 +41,7 @@
 
   <!-- 🧠 Backend / Full-Stack -->
   <tr style="line-height: 1.2;" align="center">
+    <td><h4 style="margin: 10px 0;">🧠 Backend / Full-Stack:</h4></td>
     <td style="padding: 4px;"><a href="https://www.python.org/" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="32" alt="Python"/> <br><span style="font-size: 12px;">Python</span></a></td>
     <td style="padding: 4px;"><a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="32" alt="C Language"/> <br><span style="font-size: 12px;">C</span></a></td>
     <td style="padding: 4px;"><a href="https://nodejs.org/" target="_blank"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="32" alt="Node.js"/> <br><span style="font-size: 12px;">Node.js</span></a></td>
@@ -50,6 +51,7 @@
 
   <!-- ⚛️ Front-End Frameworks -->
   <tr style="line-height: 1.2;" align="center">
+    <td>  <h4 style="margin: 10px 0;">⚛️ Front-End Frameworks:</h4></td>
     <td style="padding: 4px;"><a href="https://reactjs.org/" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="32" alt="React"/> <br><span style="font-size: 12px;">React</span></a></td>
     <td style="padding: 4px;"><a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="32" alt="Next.js"/> <br><span style="font-size: 12px;">Next.js</span></a></td>
     <td style="padding: 4px;"><a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" width="32" alt="Vite"/> <br><span style="font-size: 12px;">Vite</span></a></td>
@@ -57,6 +59,7 @@
 
   <!-- 🌐 Core Web Technologies -->
   <tr style="line-height: 1.2;" align="center">
+    <td>  <h4 style="margin: 10px 0;">🌐 Core Web Technologies:</h4></td>
     <td style="padding: 4px;"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="32" alt="HTML"/> <br><span style="font-size: 12px;">HTML</span></a></td>
     <td style="padding: 4px;"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="32" alt="CSS"/> <br><span style="font-size: 12px;">CSS</span></a></td>
     <td style="padding: 4px;"><a href="https://www.javascript.com/" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="32" alt="JavaScript"/> <br><span style="font-size: 12px;">JavaScript</span></a></td>
@@ -65,6 +68,7 @@
 
   <!-- 🎨 Styling & Design -->
   <tr style="line-height: 1.2;" align="center">
+    <td>  <h4 style="margin: 10px 0;">🎨 Styling & Design:</h4></td>
     <td style="padding: 4px;"><a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="32" alt="Bootstrap"/> <br><span style="font-size: 12px;">Bootstrap</span></a></td>
     <td style="padding: 4px;"><a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="32" alt="Tailwind CSS"/> <br><span style="font-size: 12px;">Tailwind</span></a></td>
     <td style="padding: 4px;"><a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=jquery" width="32" alt="jQuery"/> <br><span style="font-size: 12px;">jQuery</span></a></td>
@@ -72,6 +76,7 @@
 
   <!-- 🧪 ML & Data Science -->
   <tr style="line-height: 1.2;" align="center">
+    <td><h4 style="margin: 10px 0;">🧪 Machine Learning & Data Science:</h4></td>
     <td style="padding: 4px;"><a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" width="32" alt="Scikit-learn"/> <br><span style="font-size: 12px;">Sklearn</span></a></td>
     <td style="padding: 4px;"><a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="32" alt="TensorFlow"/> <br><span style="font-size: 12px;">TensorFlow</span></a></td>
     <td style="padding: 4px;"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" alt="Pandas"/> <br><span style="font-size: 12px;">Pandas</span></a></td>
@@ -82,6 +87,7 @@
 
   <!-- 💾 Databases -->
   <tr style="line-height: 1.2;" align="center">
+    <td><h4 style="margin: 10px 0;">💾 Databases:</h4></td>
     <td style="padding: 4px;"><a href="https://www.mysql.com/" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="32" alt="MySQL"/> <br><span style="font-size: 12px;">MySQL</span></a></td>
     <td style="padding: 4px;"><a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="32" alt="Firebase"/> <br><span style="font-size: 12px;">Firebase</span></a></td>
     <td style="padding: 4px;"><a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="32" alt="MongoDB"/> <br><span style="font-size: 12px;">MongoDB</span></a></td>
@@ -91,6 +97,7 @@
 
   <!-- ☁️ Cloud & DevOps -->
   <tr style="line-height: 1.2;" align="center">
+    <td><h4 style="margin: 10px 0;">☁️ DevOps & Cloud:</h4></td>
     <td style="padding: 4px;"><a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="32" alt="AWS"/> <br><span style="font-size: 12px;">AWS</span></a></td>
     <td style="padding: 4px;"><a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" width="32" alt="Terraform"/> <br><span style="font-size: 12px;">Terraform</span></a></td>
     <td style="padding: 4px;"><a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="32" alt="Docker"/> <br><span style="font-size: 12px;">Docker</span></a></td>
@@ -98,18 +105,24 @@
     <td style="padding: 4px;"><a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" width="32" alt="Jenkins"/> <br><span style="font-size: 12px;">Jenkins</span></a></td>
   </tr>
 
-  <!-- 🧪 Tools & Utilities -->
+  <!-- 🔧 Version Control, IDEs & Tools -->
   <tr style="line-height: 1.2;" align="center">
-    <td style="padding: 4px;"><a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="32" alt="Postman"/> <br><span style="font-size: 12px;">Postman</span></a></td>
+    <td><h4 style="margin: 10px 0;">🔧 Version Control, IDEs & Utilities:</h4></td>
+    <td style="padding: 4px;"><a href="https://bitbucket.org/" target="_blank"><img src="https://skillicons.dev/icons?i=bitbucket" width="32" alt="Bitbucket"/> <br><span style="font-size: 12px;">Bitbucket</span></a></td>
     <td style="padding: 4px;"><a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="32" alt="Git"/> <br><span style="font-size: 12px;">Git</span></a></td>
     <td style="padding: 4px;"><a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="32" alt="GitHub"/> <br><span style="font-size: 12px;">GitHub</span></a></td>
     <td style="padding: 4px;"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="32" alt="VS Code"/> <br><span style="font-size: 12px;">VS Code</span></a></td>
     <td style="padding: 4px;"><a href="https://www.eclipse.org/" target="_blank"><img src="https://skillicons.dev/icons?i=eclipse" width="32" alt="Eclipse"/> <br><span style="font-size: 12px;">Eclipse</span></a></td>
+    <td style="padding: 4px;"><a href="https://www.vim.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vim" width="32" alt="Vim"/> <br><span style="font-size: 12px;">Vim</span></a></td>
+  </tr>
+
+  <!-- 🧩 Project & Workflow Tools -->
+  <tr style="line-height: 1.2;" align="center">
+    <td><h4 style="margin: 10px 0;">🧩 Project & Workflow Tools:</h4></td>
+    <td style="padding: 4px;"><a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="32" alt="Postman"/> <br><span style="font-size: 12px;">Postman</span></a></td>
     <td style="padding: 4px;"><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="32" alt="Bash"/> <br><span style="font-size: 12px;">Bash</span></a></td>
     <td style="padding: 4px;"><a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" width="32" alt="Nginx"/> <br><span style="font-size: 12px;">Nginx</span></a></td>
     <td style="padding: 4px;"><a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="32" alt="Vercel"/> <br><span style="font-size: 12px;">Vercel</span></a></td>
-    <td style="padding: 4px;"><a href="https://www.vim.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vim" width="32" alt="Vim"/> <br><span style="font-size: 12px;">Vim</span></a></td>
-    <td style="padding: 4px;"><a href="https://bitbucket.org/" target="_blank"><img src="https://skillicons.dev/icons?i=bitbucket" width="32" alt="Bitbucket"/> <br><span style="font-size: 12px;">Bitbucket</span></a></td>
     <td style="padding: 4px;"><a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="32" alt="Jira"/> <br><span style="font-size: 12px;">Jira</span></a></td>
     <td style="padding: 4px;"><a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Atlassian_Confluence_2017_logo.svg" width="32" alt="Confluence"/> <br><span style="font-size: 12px;">Confluence</span></a></td>
   </tr>
