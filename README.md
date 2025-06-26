@@ -9,7 +9,7 @@
       style="height: 250px; width: 400px; object-fit: cover;"
     />
   <p>
-    <strong>I’m Taranjyot Singh</strong>, a <strong>Full-stack Software Developer</strong> passionate about building scalable backend systems and automation tools.
+    A <strong>Software Development Engineer</strong> passionate about building scalable backend systems and automation tools.
     I bridge elegant design with robust functionality, thriving in collaborative, innovation-driven environments.
     Always learning, always building — solving real-world problems with clean, efficient code.
   </p>
