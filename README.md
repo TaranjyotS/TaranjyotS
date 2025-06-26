@@ -2,19 +2,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm Taranjyot Singh! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 </h1>
 
-  <center>
-    <img
+<div align="center">
+  <img
       src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif"
       alt="centered image"
       style="height: 250px; width: 400px; object-fit: cover;"
     />
-  </center>
-  <p style="text-align: center;">
+  <p>
     <strong>I’m Taranjyot Singh</strong>, a <strong>Full-stack Software Developer</strong> passionate about building scalable backend systems and automation tools.
     I bridge elegant design with robust functionality, thriving in collaborative, innovation-driven environments.
     Always learning, always building — solving real-world problems with clean, efficient code.
   </p>
-
+</div>
 
 <div align="center">
   <h3>Let’s connect, innovate, and make an impact together!</h3>
@@ -27,7 +26,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/TaranjyotS">
-    <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" width="40">
+    <img src="https://img.icons8.com/?size=100&id=g7P0iny5Rros&format=png&color=000000" width="40">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/taranjyotsingh/">
