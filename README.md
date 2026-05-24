@@ -73,7 +73,7 @@
 <tr>
 <td align="center">
 
-<a href="https://github.com/TaranjyotS/your-repo-name">
+<a href="https://github.com/TaranjyotS/resume-api">
 🤖 AI Resume Intelligence
 </a>
 
@@ -115,7 +115,7 @@ AI-powered portfolio & stock analysis
 <tr>
 <td align="center">
 
-<a href="https://github.com/TaranjyotS/your-mlops-repo">
+<a href="https://github.com/TaranjyotS/mlops-ci-cd">
 ⚙️ Production MLOps Pipeline
 </a>
 
@@ -129,7 +129,7 @@ MLflow, DVC, CI/CD, SageMaker deployment
 <tr>
 <td align="center">
 
-<a href="https://github.com/TaranjyotS/your-security-repo">
+<a href="https://github.com/TaranjyotS/web-security-auditor">
 🔐 Web Security Auditor
 </a>
 
@@ -510,18 +510,6 @@ Automated vulnerability scanning & reporting
 </tr>
 
 </table>
-
-</div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<div align="center">
-
-# 📈 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaranjyotS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaranjyotS&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
