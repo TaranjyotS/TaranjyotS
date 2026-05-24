@@ -64,15 +64,85 @@
 
 # 🚀 Featured Systems
 
-</div>
+<table>
+<tr>
+<th align="center">Project</th>
+<th align="center">Focus</th>
+</tr>
 
-| Project                                                                           | Focus                                                         |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| [🤖 AI Resume Intelligence](https://github.com/TaranjyotS/your-repo-name)         | ATS scoring, AI resume tailoring, FastAPI microservices       |
-| [💰 Smart Budget Allocator](https://github.com/TaranjyotS/smart-budget-allocator) | Financial planning, analytics dashboards, investment tracking |
-| [📊 Investment Analytics](https://github.com/TaranjyotS/your-investment-repo)     | AI-powered portfolio & stock analysis                         |
-| [⚙️ Production MLOps Pipeline](https://github.com/TaranjyotS/your-mlops-repo)     | MLflow, DVC, CI/CD, SageMaker deployment                      |
-| [🔐 Web Security Auditor](https://github.com/TaranjyotS/your-security-repo)       | Automated vulnerability scanning & reporting                  |
+<tr>
+<td align="center">
+
+<a href="https://github.com/TaranjyotS/your-repo-name">
+🤖 AI Resume Intelligence
+</a>
+
+</td>
+
+<td align="center">
+ATS scoring, AI resume tailoring, FastAPI microservices
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://github.com/TaranjyotS/smart-budget-allocator">
+💰 Smart Budget Allocator
+</a>
+
+</td>
+
+<td align="center">
+Financial planning, analytics dashboards, investment tracking
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://github.com/TaranjyotS/your-investment-repo">
+📊 Investment Analytics
+</a>
+
+</td>
+
+<td align="center">
+AI-powered portfolio & stock analysis
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://github.com/TaranjyotS/your-mlops-repo">
+⚙️ Production MLOps Pipeline
+</a>
+
+</td>
+
+<td align="center">
+MLflow, DVC, CI/CD, SageMaker deployment
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://github.com/TaranjyotS/your-security-repo">
+🔐 Web Security Auditor
+</a>
+
+</td>
+
+<td align="center">
+Automated vulnerability scanning & reporting
+</td>
+</tr>
+
+</table>
+
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
